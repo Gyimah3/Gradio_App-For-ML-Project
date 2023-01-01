@@ -1,7 +1,9 @@
+# Setup
+
+
 
 In this project, I built a web App with a user-friendly interface to embed my ML model from Sales Forecasting Project
 
-#Manual Setup
 
 For manual installation, you need to have Python3 on your system. Then you can clone this repo and being at the repo's root :: friendly_web_interface_for_ML_models> ... follow the steps below:
 

@@ -22,10 +22,11 @@ For manual installation, you need to have Python3 on your system. Then you can c
 
 # Screenshots
 
+**screenshot 1**
 ![Screenshot 1](https://github.com/Gyimah3/Gradio_App-For-ML-Project/blob/main/gradio_screenshot/Screenshot%202023-01-01%20095302.png)
 
 
 
 
-
+**screenshot 2**
 ![Screenshot 2](https://github.com/Gyimah3/Gradio_App-For-ML-Project/blob/main/gradio_screenshot/Screenshot%202023-01-01%20095500.png)

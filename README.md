@@ -9,13 +9,13 @@ For manual installation, you need to have Python3 on your system. Then you can c
 
 Windows:
 
-  python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+  `python -m venv venv; venv\Scripts\activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt ` 
   
   
 Linux & MacOs:
 
-  python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt  
+ ` python3 -m venv venv; source venv/bin/activate; python -m pip install -q --upgrade pip; python -m pip install -qr requirements.txt`  
   
-NB: For MacOs users, please install Xcode if you have an issue.
+NB: For MacOs users, please install `Xcode` if you have an issue.
 
 Run the demo apps (being at the repository root): streamlit run app.py
